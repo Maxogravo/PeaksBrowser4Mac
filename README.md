@@ -1,4 +1,5 @@
 <h1>Unofficial Version Of Peaks Browser Compiled For Mac</h1>
+<h2> Peaks Browser is a lightweight Python and PyQt5 based browser</h2>
 
 <h3>Disclaimer: It already runs on mac this is just a compiled App</h3>
 
