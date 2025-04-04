@@ -1,7 +1,9 @@
-<h1>Peaks Browser is a lightweight Python and PyQt5 based browser</h1>
+<h1>Unofficial Version Of Peaks Browser Compiled For Mac</h1>
 
-<h2>To ensure you can run the browser run</h2>
-<h2>You must have python installed unless your running the compiled exe</h2>
+<h3>Disclaimer: It already runs on mac this is just a compiled App</h3>
+
+
+<h2>Packages needed for running the Python Code:</h2>
 
 `pip install PyQt5`
 `pip install PyQtWebEngine-Qt5`
